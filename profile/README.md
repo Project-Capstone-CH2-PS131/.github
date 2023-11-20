@@ -7,7 +7,7 @@ Project Capstone CH2-PS131 adalah sebuah Grup Capstone yang akan berkomitmen men
 | Name | Role | Github Profile |
 |--------------|-----------|--------------|
 | Faiz Diandra Maulana | Mobile Development | [Profile Github](https://github.com/BosToken) |
-| Rafli Zufargian Hermawan | Mobile Development | [Profile Github]() |
+| Rafli Zufargian Hermawan | Mobile Development | [Profile Github](https://github.com/Furfarfur) |
 | Sabda Adjie Saputra | Machine Learning | [Profile Github]() |
 | Muhammad Zidan Rifardi | Machine Learning (Capstone Project Leader) | [Profile Github](https://github.com/TheMelonnn) |
 | Williyandi Saputra | Machine Learning | [Profile Github]() |
