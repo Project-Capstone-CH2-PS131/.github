@@ -12,5 +12,5 @@ Project Capstone CH2-PS131 adalah sebuah Grup Capstone yang akan berkomitmen men
 | Muhammad Zidan Rifardi | Machine Learning (Capstone Project Leader) | [Profile Github](https://github.com/TheMelonnn) |
 | Williyandi Saputra | Machine Learning | [Profile Github]() |
 | Muhammad Salman Al Farisi | Cloud Computing | [Profile Github](https://github.com/alfarise) |
-|  Andi Wulan Wahyuni | Cloud Computing | [Profile Github]() |
+|  Andi Wulan Wahyuni | Cloud Computing | [Profile Github](https://github.com/AndiWulanWahyuni) |
 
